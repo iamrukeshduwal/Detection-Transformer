@@ -2,6 +2,8 @@
 
 This repository contains an implementation of DETR (DEtection TRansformer) for object detection tasks using PyTorch. DETR is a transformer-based neural network architecture that directly predicts object locations and classes in a single forward pass.
 
+![DETR Example](sample.png)
+
 ## Installation
 
 To set up the environment for running the DETR implementation, follow these steps:
