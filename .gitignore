@@ -1,2 +1,8 @@
 # Ignore dataset directory
 dataset/
+/lightning_logs
+/saved_model
+
+
+.gitattributes
+
